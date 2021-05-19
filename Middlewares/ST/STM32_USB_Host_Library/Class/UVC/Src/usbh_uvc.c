@@ -1,8 +1,8 @@
 /**
   ******************************************************************************
-  * @file    usbh_mtp.c
+  * @file    usbh_uvc.c
   * @author  MCD Application Team
-  * @brief   This file is the MTP Layer Handlers for USB Host MTP class.
+  * @brief   This file is the UVC Layer Handlers for USB Host Video class.
   *
   *
   ******************************************************************************
